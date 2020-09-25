@@ -7,7 +7,7 @@ This code is written as an assignment for the course __TDT4136 - Introduction to
 
 ## How to run
 ```sh
-https://github.com/dilawarm/samfundet.git
+git clone https://github.com/dilawarm/samfundet.git
 cd samfundet
 pip3 install -r requirements.txt
 python3 astar.py tasknumber
